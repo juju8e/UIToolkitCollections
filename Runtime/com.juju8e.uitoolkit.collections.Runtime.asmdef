@@ -1,0 +1,14 @@
+{
+    "name": "com.juju8e.uitoolkit.collections.Runtime",
+    "rootNamespace": "Juju8e.UIToolkit.Collections",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "com.juju8e.uitoolkit.collections",
+  "version": "0.0.0",
+  "displayName": "UIToolkit Collections",
+  "description": "UIToolkit collections elements",
+  "unity": "2021.1",
+  "keywords": [
+    "Juju8e",
+    "UIToolkit",
+    "Collections"
+  ],
+  "author": {
+    "name": "Juju8e",
+    "email": "juju8e@gmail.com",
+    "url": "https://github.com/juju8e/UIToolkitCollections"
+  }
+}
